@@ -9,8 +9,8 @@ export default async function handler(req, res) {
       Messages: [
         {
           From: {
-            Email: "delanoflipse@hotmail.com",
-            Name: "Delano",
+            Email: "joostalarm@hcnobel.nl",
+            Name: "Joost Sloopalarm",
           },
           To: [
             {
