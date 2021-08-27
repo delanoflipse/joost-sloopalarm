@@ -18,10 +18,10 @@ export default async function handler(req, res) {
               Name: "Delano",
             },
           ],
-          Subject: "Greetings from Mailjet.",
-          TextPart: "My first Mailjet email",
+          Subject: "Waarschuwing: Het Joost sloopalarm is geluid!",
+          TextPart: "Waarde Ridders, het joost sloopalarm is zojuist geluid. Dit betekend dat escalatie gaande is. Bijzijn is meemaken, het is slopen of gesloopt worden.",
           HTMLPart:
-            "<h3>Dear passenger 1, welcome to <a href='https://www.mailjet.com/'>Mailjet</a>!</h3><br />May the delivery force be with you!",
+            "<h3>Waarde Ridders,</h3><br />Het joost sloopalarm is zojuist geluid. Dit betekend dat escalatie gaande is. Bijzijn is meemaken, het is slopen of gesloopt worden.",
           CustomID: "AppGettingStartedTest",
         },
       ],

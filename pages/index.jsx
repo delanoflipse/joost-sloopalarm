@@ -18,6 +18,8 @@ export default function Home() {
     <div className="w-screen h-screen overflow-auto flex flex-col">
       <Head>
         <title>Nobele Joostsloopalarm</title>
+        <meta name="robots" content="noindex" />
+        <meta name="googlebot" content="noindex" />
       </Head>
       <div className="flex-1">
         <div className="container mx-auto p-6">
